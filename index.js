@@ -9,9 +9,9 @@ window.onload = function () {
 icon.onclick = function () {
   if (mySong.paused) {
     mySong.play();
-    icon.src = "/images/pause2.png";
+    icon.src = "/images/play_circle_FILL0_wght400_GRAD0_opsz48.svg";
   } else {
     mySong.pause();
-    icon.src = "/images/play2.png";
+    icon.src = "/images/play_circle_FILL0_wght400_GRAD0_opsz48.svg";
   }
 };
