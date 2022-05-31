@@ -1,0 +1,264 @@
+@media screen and (max-width: 1024px) {
+  /*page 3*/
+  .tanggal2 {
+    font-family: "Vollkorn", serif;
+    font-weight: 400;
+    font-size: 40px;
+    padding-top: 83px;
+    padding-right: 30px;
+    text-align: center;
+    width: 15cm;
+    float: right;
+    white-space: nowrap;
+  }
+
+  .tanggal2 .tgl5 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+    font-size: 30px;
+    width: 15cm;
+    float: center;
+    white-space: nowrap;
+  }
+
+  /*Alamat*/
+  .alamat1 {
+    text-align: center;
+  }
+  .tempat1 {
+    font-size: 30px;
+    text-align: center;
+    white-space: nowrap;
+    padding-top: 10cm;
+  }
+
+  .material-symbols-outlined {
+    vertical-align: middle;
+    line-height: 0 !important;
+    position: relative;
+    bottom: 2px;
+  }
+
+  .btn {
+    font-family: "Montserrat", sans-serif;
+  }
+
+  /*page 3*/
+  .akd {
+    font-family: "Vollkorn", serif;
+    font-weight: 500;
+    color: black;
+    font-size: 40px;
+    padding: 5cm 0px 0px 0px;
+  }
+
+  .linkig {
+    display: flex;
+    justify-content: space-between;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+    font-size: 25px;
+  }
+
+  .instagramy {
+    margin-left: 1cm;
+    pading: 10px 10px;
+    text-decoration: none;
+  }
+
+  .instagrams {
+    margin-right: 1cm;
+    pading: 10px 10px;
+    text-decoration: none;
+  }
+
+  /*foto terakhir*/
+  .our17 {
+    width: 50%;
+    height: 175px;
+    position: relative;
+    max-width: 50%;
+    object-fit: cover;
+    padding: 5px 5px;
+    float: left;
+  }
+}
+
+@media all and (max-width: 670px) {
+  /*page 1*/
+  .img1 {
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+    color: white;
+    background-position: center bottom;
+  }
+
+  .txt1 {
+    white-space: nowrap;
+    font-size: 20px;
+    padding-top: 100px;
+  }
+
+  .txt2 {
+    white-space: nowrap;
+    font-size: 60px;
+    padding-top: 20px;
+  }
+
+
+  /*page 2*/
+  .img2 {
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+    color: white;
+    background-position: center bottom;
+  }
+  .img-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0px 0cm 0px;
+    width: 55%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .textp {
+    font-family: "Noto Sans", sans-serif;
+    color: black;
+    text-align: center;
+    padding: 20px 0px;
+    font-size: 15px;
+  }
+  .img-2 {
+    height: 130px;
+    left: 60px;
+    object-fit: cover;
+    position: absolute;
+    top: 351px
+    width: 130px;
+  }
+  .img-3 {
+    height: 130px;
+    left: 320px;
+    object-fit: cover;
+    position: absolute;
+    top: 351px
+    width: 130px;
+  }
+
+  span li {
+    letter-spacing:0;
+    font-family: "Vollkorn", serif;
+    text-align: center;
+    list-style-type: none;
+    color: black;
+  }
+  
+  .texty{
+    font-weight: 400;
+    left: 0px;
+    position: absolute;
+    top: 390px
+  }
+  
+  .texts{
+    font-weight: 400;
+    left: 260px;
+    position: absolute;
+    top: 390px
+  }
+  
+  .nama1{
+    font-size: 18px;
+  }
+  
+  .nama2{
+    font-weight: 600;
+    font-size: 15px;
+  }
+
+  /*Halaman 3*/
+  .img3 {
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+    color: white;
+    background-position: center bottom;
+  }
+
+/*tanggal 1 class*/
+
+.tggl{
+  text-align: center;
+}
+
+.tanggal1 {
+  font-family: "Vollkorn", serif;
+  font-weight: 400;
+  font-size: 40px;
+  padding-top: 20px;
+  padding-right: 0px;
+  text-align: center;
+  width: 13cm;
+  float: right;
+  white-space: nowrap;
+}
+
+.tanggal1 .tgl3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 200;
+  font-size: 25px;
+  width: 13cm;
+  float: center;
+  white-space: nowrap;
+}
+
+  .tanggal2 {
+    display: inline-block;
+    font-family: "Vollkorn", serif;
+    font-weight: 400;
+    padding-top: 10px;
+    width: 15cm;
+    text-align: center;
+  }
+
+  .tanggal2 .tgl4 {
+    padding-left: 205px;
+    float: center;
+    font-size: 40px;
+    width: 10cm;
+    white-space: nowrap;
+  }
+  
+  .tanggal2 .tgl5 {
+    padding-left: 76px;
+    float: center;
+    font-size: 25px;
+    width: 15cm;
+    white-space: nowrap;
+  }
+
+  /*Alamat*/
+.alamat1 {
+  text-align: center;
+}
+
+.tempat1 {
+  font-size: 20px;
+  text-align: center;
+  white-space: nowrap;
+  padding-top: 10cm;
+}
+
+.material-symbols-outlined {
+  vertical-align: middle;
+  line-height: 0 !important;
+  position: relative;
+  bottom: 2px;
+}
+
+.btn {
+  font-family: "Montserrat", sans-serif;
+}
